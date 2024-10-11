@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 21-year-old software engineering student at Holberton School, where I'm diving deep into full-stack development, problem-solving, and real-world projects. I’m passionate about technology, learning new skills, and collaborating on open-source projects.
+I'm a 21-year-old software engineering student at Holberton School, where I'm diving deep into full-stack development, problem-solving, and real-world projects.
 
 
 ## 🌐 Socials:
