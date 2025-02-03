@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXgyejM5eTRqZmM2dTY1MjdyOTQ5dDg4MmRqeWJpNXQ2Zms4Y3owaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EFGXDUBXcUd131C0CR/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://media1.tenor.com/m/zbRyujBTF0AAAAAC/spotify.gif" />
 
 ### Spotify Playing 🎧
 
