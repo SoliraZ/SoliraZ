@@ -1,13 +1,46 @@
-# 💫 About Me:
-I'm a 21-year-old software engineering student at Holberton School, where I'm diving deep into full-stack development, problem-solving, and real-world projects.
+# Hi there, I'm Hamza - aka SoliraZ <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+
+---
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/soliraz) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=flat&logo=ovh&logoColor=#123F6D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+### I'm a 21-year-old software engineering student Dev Student
+
+
+- 👨‍💻 I'm a student at Holberton School, where I'm diving deep into full-stack development, problem-solving, and real-world projects.
+- 📚 I’m currently learning everything about Frontend and Backend technologies.
+- 🚀 Goals: Learn more technologies - Never stop creating new ideas.
+- ⚡ Fun fact: I like to listen to good songs.
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXgyejM5eTRqZmM2dTY1MjdyOTQ5dDg4MmRqeWJpNXQ2Zms4Y3owaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EFGXDUBXcUd131C0CR/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/hxa82b0ez5q3jqv9xbj3xmvdg?si=fda1e647a5bd4ffb)
+
+---
+
+
+
+### Languages and Tools 🛠 
+
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+---
+
+
+# Github Statistics 📈
+
 ![](https://github-readme-stats.vercel.app/api?username=SoliraZ&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SoliraZ&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoliraZ&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
