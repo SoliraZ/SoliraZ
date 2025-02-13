@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### I'm a 21-year-old software engineering student Dev Student
+### I'm a 21-year-old software engineering student Developer Student
 
 
 - 👨‍💻 I'm a student at Holberton School, where I'm diving deep into full-stack development, problem-solving, and real-world projects.
