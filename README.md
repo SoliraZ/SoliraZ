@@ -20,16 +20,7 @@
 
 ### Spotify Recently Played 🎧
 
-<table>
-  <tr>
-    <td>
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=hxa82b0ez5q3jqv9xbj3xmvdg&count=3&unique=true">
-    </td>
-    <td>
-      <img src="https://media1.tenor.com/m/zbRyujBTF0AAAAAC/spotify.gif" width="150px">
-    </td>
-  </tr>
-</table>
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=hxa82b0ez5q3jqv9xbj3xmvdg&count=3&unique=true)
 
 
 
