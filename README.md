@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media1.tenor.com/m/zbRyujBTF0AAAAAC/spotify.gif" />
+<img align="right" alt="GIF" height="170px" src="https://media1.tenor.com/m/zbRyujBTF0AAAAAC/spotify.gif" style="margin-top: 20px;" />
 
 ### Spotify Recently Played 🎧
 
