@@ -18,7 +18,7 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media1.tenor.com/m/zbRyujBTF0AAAAAC/spotify.gif" />
 
-### Spotify Playing 🎧
+### Spotify Recently Played 🎧
 
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=hxa82b0ez5q3jqv9xbj3xmvdg&count=3&unique=true)](https://open.spotify.com/user/hxa82b0ez5q3jqv9xbj3xmvdg?si=fda1e647a5bd4ffb)
 
