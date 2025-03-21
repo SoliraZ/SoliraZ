@@ -18,8 +18,17 @@
 
 ### Spotify Recently Played 🎧
 
-| ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=hxa82b0ez5q3jqv9xbj3xmvdg&count=3&unique=true) | <img alt="GIF" height="170px" src="https://media1.tenor.com/m/zbRyujBTF0AAAAAC/spotify.gif"> |
-|---|---|
+<table>
+  <tr>
+    <td>
+      <img align="left" alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=hxa82b0ez5q3jqv9xbj3xmvdg&count=3&unique=true">
+    </td>
+    <td>
+      <img align="right" alt="GIF" height="170px" src="https://media1.tenor.com/m/zbRyujBTF0AAAAAC/spotify.gif">
+    </td>
+  </tr>
+</table>
+
 
 
 ---
