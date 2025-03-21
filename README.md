@@ -20,7 +20,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=hxa82b0ez5q3jqv9xbj3xmvdg&count=5&unique=true)](https://open.spotify.com/user/hxa82b0ez5q3jqv9xbj3xmvdg?si=fda1e647a5bd4ffb)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=hxa82b0ez5q3jqv9xbj3xmvdg&count=3&unique=true)](https://open.spotify.com/user/hxa82b0ez5q3jqv9xbj3xmvdg?si=fda1e647a5bd4ffb)
 
 ---
 
