@@ -6,10 +6,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### I'm a 22-year-old software engineering student
+### I'm a 23-year-old software engineering student
 
 - 👨‍💻 I'm a student at Holberton School, where I'm diving deep into full-stack development, problem-solving, and real-world projects.
-- 📚 I’m currently learning everything about Frontend and Backend technologies.
 - 🚀 Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I like to listen to good songs.
 
@@ -38,7 +37,4 @@
 ![](https://github-readme-stats.shion.dev/api?username=SoliraZ&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=SoliraZ&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SoliraZ&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
